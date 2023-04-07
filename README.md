@@ -8,3 +8,5 @@
 	<img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.NET&logoColor=white"/>
 </div>
 
+# Key Features
+<img width="80%" src="https://user-images.githubusercontent.com/115933353/230545808-abda0691-5f85-4058-bc1e-0d385d6444c2.jpg"/>
