@@ -9,4 +9,7 @@
 </div>
 
 # Key Features
-<img width="80%" src="https://user-images.githubusercontent.com/115933353/230545808-abda0691-5f85-4058-bc1e-0d385d6444c2.jpg"/>
+	<img width="80%" src="https://user-images.githubusercontent.com/115933353/230545808-abda0691-5f85-4058-bc1e-0d385d6444c2.jpg"/>
+
+	<img width="80%" src="https://user-images.githubusercontent.com/115933353/230546159-2cd6abca-de6f-42d1-8285-2dda1a0bbf57.jpg"/>
+	<img width="80%" src="https://user-images.githubusercontent.com/115933353/230546226-074069cd-60d6-4cca-9a3e-e6971aff81ef.jpg"/>
