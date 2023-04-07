@@ -1,5 +1,8 @@
 # DanGun
-* DanGun(6인 참여)은 유니티로 제작한 2d 로그라이크 RPG 모바일 게임 입니다.
+**: DanGun(6인 참여)은 유니티로 제작한 2d 로그라이크 RPG 모바일 게임 입니다.**   
+* 프로젝트 기간 : 2022.09.04 ~ 
+* GutHub : https://github.com/duckgoo9/DanGun
+
 
 
 # STACKS
@@ -8,7 +11,9 @@
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white" />
 	<img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.NET&logoColor=white"/>
-</div>
+</div>   
+
+
 
 # Key Features
 <p align="center"><img width="80%" src="https://user-images.githubusercontent.com/115933353/230545808-abda0691-5f85-4058-bc1e-0d385d6444c2.jpg"/></p>
