@@ -1,4 +1,6 @@
 # DanGun
+* DanGun(6인 참여)은 유니티로 제작한 2d 로그라이크 RPG 모바일 게임 입니다.
+
 
 # STACKS
 <div align="center">
